@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Demo",
     introTitle: 'Lê Huy Hòa',
     introDesc: `Em hỏi ank câu nài ank phải trả lời thât lòng nhoa '-'`,
-    btnIntro: 'Hihii',
+    btnIntro: 'Hihii><',
     title: 'Hết dỗi chưa v:',
     desc: ' Anh yêu iẻm hông ',
     btnYes: 'Hông pé oi',
